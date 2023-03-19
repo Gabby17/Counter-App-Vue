@@ -10,7 +10,7 @@ https://counter-app-a0wi94lvl-gabby17.vercel.app/counter
 
 ## Demo View
 
-* Home/Counter Page 
+* Counter Page 
 <img width="1440" alt="Screenshot 2023-03-19 at 21 23 33" src="https://user-images.githubusercontent.com/79756092/226206965-4271f92c-9b44-4be8-8bcc-fe02413dbd89.png">
 
 * 404 page
