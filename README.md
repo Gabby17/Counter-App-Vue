@@ -6,7 +6,7 @@ INSTRUCTION: Create a new vue js application using the cli then setup a counter 
 
 ### Hosted Link
 
-https://counter-app-a0wi94lvl-gabby17.vercel.app/counter
+https://counter-app-vue-eight.vercel.app/
 
 ## Demo View
 
