@@ -3,8 +3,6 @@
 </script>
 <template>
     <div class="home">
-        <!-- <img src="../../public/favicon.svg" alt="Img"> -->
-        <!-- <a href="https://ibb.co/10kdW8T"><img src="https://i.ibb.co/FhF0Tgz/Memoji.jpg" alt="Memoji" border="0"></a> -->
         <h1>Welcome!👋</h1>
         <h1>Counter-App-Vue 🚀</h1>
         <ul class="list">
@@ -53,9 +51,6 @@ img {
 
     img {
         width: 40%;
-        /* display: flex;
-        justify-content: center; */
-        /* text-align: center; */
     }
 }
 
@@ -69,7 +64,6 @@ li {
     padding: 10px;
     margin-top: 14px;
     border: 1px solid #ffc700;
-    /* background-color: #08090875; */
     margin-inline: 5px;
     border-radius: 8px;
     cursor: pointer;
@@ -78,9 +72,6 @@ li {
 
 li:hover {
     border: 1px solid #ffffff;
-    /* color: #ffc700; */
-    /* background-color: white;
-    color: black; */
 }
 
 </style>
