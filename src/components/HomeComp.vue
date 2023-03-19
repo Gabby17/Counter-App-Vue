@@ -64,7 +64,7 @@ li {
     padding: 10px;
     margin-top: 14px;
     border: 1px solid #ffc700;
-    margin-inline: 5px;
+    margin-inline: 6px;
     border-radius: 8px;
     cursor: pointer;
     font-weight: lighter;
